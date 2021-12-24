@@ -1,2 +1,2 @@
 # testtask
-Test Task
+For run the application locally -> run index.html
